@@ -87,5 +87,5 @@ In order to submit a solution, follow these steps.
 ###### Hint
 An actual solution is present in one of the commits. If you revert the commit with the message "Remove actual answers", you should be able to get to a working solution
 
-#### Signin off
+### Signin off
 Varun S
